@@ -1,0 +1,11 @@
+c:\users\owner\source\repos\TicketAPI\TicketAPI\bin\Debug\netcoreapp2.0\TicketAPI.deps.json
+c:\users\owner\source\repos\TicketAPI\TicketAPI\bin\Debug\netcoreapp2.0\TicketAPI.runtimeconfig.json
+c:\users\owner\source\repos\TicketAPI\TicketAPI\bin\Debug\netcoreapp2.0\TicketAPI.runtimeconfig.dev.json
+c:\users\owner\source\repos\TicketAPI\TicketAPI\bin\Debug\netcoreapp2.0\TicketAPI.dll
+c:\users\owner\source\repos\TicketAPI\TicketAPI\obj\Debug\netcoreapp2.0\TicketAPI.csprojResolveAssemblyReference.cache
+c:\users\owner\source\repos\TicketAPI\TicketAPI\obj\Debug\netcoreapp2.0\TicketAPI.csproj.CoreCompileInputs.cache
+c:\users\owner\source\repos\TicketAPI\TicketAPI\obj\Debug\netcoreapp2.0\TicketAPI.AssemblyInfoInputs.cache
+c:\users\owner\source\repos\TicketAPI\TicketAPI\obj\Debug\netcoreapp2.0\TicketAPI.AssemblyInfo.cs
+c:\users\owner\source\repos\TicketAPI\TicketAPI\bin\Debug\netcoreapp2.0\TicketAPI.pdb
+c:\users\owner\source\repos\TicketAPI\TicketAPI\obj\Debug\netcoreapp2.0\TicketAPI.dll
+c:\users\owner\source\repos\TicketAPI\TicketAPI\obj\Debug\netcoreapp2.0\TicketAPI.pdb
